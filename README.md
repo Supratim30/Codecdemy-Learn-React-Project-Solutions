@@ -19,4 +19,4 @@ The images should be in a folder 'images' which share the same parent folder as 
 
 ## Screenshots
 
-![App Screenshot](./Capture.png)
+![App Screenshot](https://github.com/Supratim30/Codecdemy-Learn-React-Project-Solutions/blob/main/Capture.PNG)
